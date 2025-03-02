@@ -4,7 +4,7 @@ Created on Mon Oct 22 10:15:01 2018
 @author: agentimis1
 """
 #%% Loading appropriate libraries ===============================================
-import pandas as pd #Pandas 是一个强大的数据处理库，常用于加载、清洗和操作表格数据 panda 是一个数据处理库
+import pandas as pd #Pandas 是一个强大的数据处理库，常用于加载、清洗和操作表格数据
 import numpy as np  #NumPy 是一个用于数值计算的库，特别适用于数组和矩阵操作
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
